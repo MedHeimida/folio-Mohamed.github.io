@@ -1,5 +1,5 @@
 # Configuration générale de Hugo
-baseURL = "http://localhost:1313/"
+baseURL = "https://MedHeimida.github.io/folio-Mohamed.github.io/"
 languageCode = "fr-fr"
 theme = "ananke"
 
@@ -43,10 +43,7 @@ theme = "ananke"
   [build.optimize]
     minify = true
 
-# Réglages pour le serveur Hugo
-[server]
-  port = 1313
-  watch = true
+
 
 # Liens vers les réseaux sociaux
 [params.social]

@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://localhost:1313/</link>
+    <link>https://MedHeimida.github.io/folio-Mohamed.github.io/</link>
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://MedHeimida.github.io/folio-Mohamed.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://MedHeimida.github.io/folio-Mohamed.github.io/contact/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://MedHeimida.github.io/folio-Mohamed.github.io/contact/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/projets/</link>
+      <link>https://MedHeimida.github.io/folio-Mohamed.github.io/projets/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projets/</guid>
+      <guid>https://MedHeimida.github.io/folio-Mohamed.github.io/projets/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/technologies/</link>
+      <link>https://MedHeimida.github.io/folio-Mohamed.github.io/technologies/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/technologies/</guid>
+      <guid>https://MedHeimida.github.io/folio-Mohamed.github.io/technologies/</guid>
       <description></description>
     </item>
     <item>
       <title>Mohamed Heimida - Data Scientist</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://MedHeimida.github.io/folio-Mohamed.github.io/about/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://MedHeimida.github.io/folio-Mohamed.github.io/about/</guid>
       <description>&lt;p&gt;Mon objectif est d’analyser, de comprendre et de transformer les données en informations exploitables pour aider les entreprises à prendre des décisions éclairées. J’adore résoudre des problèmes complexes et créer des modèles prédictifs qui permettent de maximiser l&amp;rsquo;impact des données.&lt;/p&gt;</description>
     </item>
   </channel>
