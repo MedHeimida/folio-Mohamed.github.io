@@ -1,0 +1,55 @@
+# Configuration générale de Hugo
+baseURL = "http://localhost:1313/"
+languageCode = "fr-fr"
+theme = "ananke"
+
+# Paramètres de la mise en page
+[markup]
+  defaultMarkdownHandler = "goldmark"  # Utiliser le moteur Goldmark pour le rendu Markdown
+  [markup.goldmark]
+    [markup.goldmark.renderer]  # Correctement formé pour le moteur Goldmark
+      unsafe = true  # Autorise des fonctionnalités potentiellement non sécurisées, comme des liens externes dans le Markdown
+
+# Paramètres du menu
+[menu]
+  [[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  name = "À propos"
+  url = "/about/"
+  weight = 2
+
+  [[menu.main]]
+  name = "Technologies"
+  url = "/technologies/"
+  weight = 3
+
+  [[menu.main]]
+  name = "Projets"
+  url = "/Projets/"
+  weight = 4
+
+  [[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 5
+
+# Réglages pour activer ou désactiver certaines fonctionnalités
+[build]
+  writeStats = true
+  [build.optimize]
+    minify = true
+
+# Réglages pour le serveur Hugo
+[server]
+  port = 1313
+  watch = true
+
+# Liens vers les réseaux sociaux
+[params.social]
+  linkedin = "https://www.linkedin.com/in/mohamed-heimida-8a4793245/"
+  github = "https://github.com/MedHeimida"
+
